@@ -1,3 +1,2 @@
 takumi_02
-HelloWorld
-takumi_02
+takumi
